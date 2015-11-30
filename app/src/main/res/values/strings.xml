@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yes, Mom!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_job_description">JobDescriptionActivity</string>
+    <string name="title_activity_new_submission_activity">new_submission_activity</string>
+    <string name="title_activity_new_submission">New Posting</string>
+    <string name="action_submit">Submit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_search">Search</string>
+    <string name="action_clear">Clear</string>
+</resources>
